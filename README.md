@@ -20,5 +20,9 @@ Judges and courtrooms need a virtual court solution that can handle various type
 
 ![Virtual courts macro processess](/img/virtual-courts-macro-processess.PNG "Virtual courts macro processess")
 
-Here is where Microsoft can help and that's the why the repository exists: to help partners and customers building solutions around those needs to accelerate development by integrating its solutions with Microsoft services, as described below.
+Here is where Microsoft can help and that's the why the repository exists: to help partners and customers building solutions around those needs to accelerate development by integrating its solutions with Microsoft products and services through REST APIs calls (widely known as [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview).
 
+Please, follow along:
+
+* [Microsoft Teams APIs (teams, tabs, bots, and more)](/microsoft-teams/microsoft-teams.md)
+* [Office 365 (scheduling, mail, sharepoint files)](/office-365/office-365.md)
