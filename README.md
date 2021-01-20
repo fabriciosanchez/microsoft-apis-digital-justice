@@ -18,7 +18,7 @@ Some relevant information:
 
 Judges and courtrooms need a virtual court solution that can handle various types of hearings, workloads, and conditions, as well as integrate case files and documents.
 
-![Virtual courts macro processess](/img/virtual-courts-macro-processess.png "Virtual courts macro processess")
+![Virtual courts macro processess](/img/virtual-courts-macro-processess.PNG "Virtual courts macro processess")
 
 Here is where Microsoft can help and that's the why the repository exists: to help partners and customers building solutions around those needs to accelerate development by integrating its solutions with Microsoft services, as described below.
 
