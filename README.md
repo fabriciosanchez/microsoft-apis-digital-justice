@@ -25,4 +25,3 @@ Here is where Microsoft can help and that's the why the repository exists: to he
 Please, follow along:
 
 * [Microsoft Teams APIs (teams, tabs, bots, and more)](/microsoft-teams/microsoft-teams.md)
-* [Office 365 (scheduling, mail, sharepoint files)](/office-365/office-365.md)
