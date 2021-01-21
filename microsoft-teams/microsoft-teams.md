@@ -6,7 +6,7 @@ Microsoft Teams is the ultimate hub for teamwork and intelligent communications.
 
 You can see all the details related to Team's APIs giving a click on [this link](https://docs.microsoft.com/en-us/graph/teams-concept-overview). From now on, we're going to list the APIs we think have a great fit with digital courts processess and its solutions.
 
-Summary:
+Sections:
 
 * [Communication APIs for virtual hearings](microsoft-teams-communication-apis.md)
 * [Teamwork management APIs for virtual hearings](microsoft-teams-teamwork-apis.md)
