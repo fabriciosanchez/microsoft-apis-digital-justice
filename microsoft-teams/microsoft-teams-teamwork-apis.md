@@ -319,3 +319,19 @@ Microsoft Teams is a chat-based workspace in Microsoft 365 that provides built-i
     * [Create open extension](https://docs.microsoft.com/en-us/graph/api/opentypeextension-post-opentypeextension?view=graph-rest-1.0)
 
     * [Get open extension](https://docs.microsoft.com/en-us/graph/api/opentypeextension-get?view=graph-rest-1.0)
+
+* [Drive Resource Type](https://docs.microsoft.com/en-us/graph/api/resources/drive?view=graph-rest-1.0): The drive resource is the top-level object representing a user's OneDrive or a document library in SharePoint. OneDrive users will always have at least one drive available, their default drive. Users without a OneDrive license may not have a default drive available.
+
+    * [Get Drive metadata of another Drive](https://docs.microsoft.com/en-us/graph/api/drive-get?view=graph-rest-1.0)
+
+    * [Get root folder for user's default Drive](https://docs.microsoft.com/en-us/graph/api/driveitem-get?view=graph-rest-1.0)
+
+    * [List children under the Drive](https://docs.microsoft.com/en-us/graph/api/driveitem-list-children?view=graph-rest-1.0)
+
+    * [List changes for all Items in the Drive](https://docs.microsoft.com/en-us/graph/api/driveitem-delta?view=graph-rest-1.0)
+
+    * [List user's followed driveItems](https://docs.microsoft.com/en-us/graph/api/drive-list-following?view=graph-rest-1.0)
+
+    * [Search for Items in the Drive](https://docs.microsoft.com/en-us/graph/api/driveitem-search?view=graph-rest-1.0)
+
+    * [Access special folder](https://docs.microsoft.com/en-us/graph/api/drive-get-specialfolder?view=graph-rest-1.0)
