@@ -46,3 +46,23 @@ Call records provide usage and diagnostic information about virtual hearing's ca
   * [List](https://docs.microsoft.com/en-us/graph/api/resources/callrecords-session?view=graph-rest-1.0)
 
 * [Segment Record Type](https://docs.microsoft.com/en-us/graph/api/resources/callrecords-segment?view=graph-rest-1.0)
+
+## Virtual Hearing's Online Meetings
+
+* [Online Meeting Resource Type](https://docs.microsoft.com/en-us/graph/api/resources/onlinemeeting?view=graph-rest-1.0): Contains information about a virtual hearing call, including the URL used to join a meeting, the attendees list, and the description.
+  
+  * [Create onlineMeeting](https://docs.microsoft.com/en-us/graph/api/application-post-onlinemeetings?view=graph-rest-1.0)
+
+  * [Get onlineMeeting](https://docs.microsoft.com/en-us/graph/api/onlinemeeting-get?view=graph-rest-1.0)
+
+  * [Delete onlineMeeting](https://docs.microsoft.com/en-us/graph/api/onlinemeeting-delete?view=graph-rest-1.0)
+
+  * [Create or Get onlineMeeting](https://docs.microsoft.com/en-us/graph/api/onlinemeeting-createorget?view=graph-rest-1.0)
+
+## Presence
+
+* [Presence Resource Type](https://docs.microsoft.com/en-us/graph/api/resources/presence?view=graph-rest-1.0): Contains information about a user's presence, including their availability and user activity.
+
+    * [Get presence](https://docs.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-1.0)
+
+    * [Get presence of multiple users](https://docs.microsoft.com/en-us/graph/api/cloudcommunications-getpresencesbyuserid?view=graph-rest-1.0)
