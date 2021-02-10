@@ -66,6 +66,6 @@ Call records provide usage and diagnostic information about virtual hearing's ca
 
 * [Presence Resource Type](https://docs.microsoft.com/en-us/graph/api/resources/presence?view=graph-rest-1.0): Contains information about a user's presence, including their availability and user activity.
 
-    * [Get presence](https://docs.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-1.0)
+  * [Get presence](https://docs.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-1.0)
 
-    * [Get presence of multiple users](https://docs.microsoft.com/en-us/graph/api/cloudcommunications-getpresencesbyuserid?view=graph-rest-1.0)
+  * [Get presence of multiple users](https://docs.microsoft.com/en-us/graph/api/cloudcommunications-getpresencesbyuserid?view=graph-rest-1.0)
